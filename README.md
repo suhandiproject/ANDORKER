@@ -15,8 +15,8 @@ $github.com/suhandiproject
  
  #Preview?(1)
  
- ![Screenshot_20191211_230712](https://user-images.githubusercontent.com/53260744/70638225-135a8800-1c6b-11ea-87d4-743fae5c8a2a.jpg)
+ ![Screenshot_20191212_090309](https://user-images.githubusercontent.com/53260744/70676303-56921680-1cbe-11ea-9a96-2e21ec302c1e.jpg)
 
 #preview?(2)
 
-![Screenshot_20191211_230721](https://user-images.githubusercontent.com/53260744/70638239-18b7d280-1c6b-11ea-9db0-909b12682c43.jpg)
+![Screenshot_20191212_090316](https://user-images.githubusercontent.com/53260744/70676311-5bef6100-1cbe-11ea-9089-b527b8674629.jpg)
